@@ -50,7 +50,6 @@ Icons: Lucide React, Devicon
 
 Fonts: Inter, JetBrains Mono (Google Fonts)
 
-📂 Project Structure
 ├── src/
 │   ├── components/
 │   │   ├── Layout/
@@ -73,6 +72,7 @@ Fonts: Inter, JetBrains Mono (Google Fonts)
 ├── index.html                          # HTML entry + Tailwind config
 ├── metadata.json                       # App metadata
 └── tsconfig.json                       # TypeScript configuration
+
 
 🚀 Getting Started
 Prerequisites
