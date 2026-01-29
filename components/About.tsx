@@ -34,7 +34,7 @@ const About: React.FC = () => {
                             {/* Image Container */}
                             <div className="relative w-64 h-64 lg:w-80 lg:h-80 rounded-full overflow-hidden border-[6px] border-white dark:border-dark-card shadow-2xl transition-transform duration-500 group-hover:scale-[1.02]">
                                 <img 
-                                    src="https://raw.githubusercontent.com/pkanotara/Prvn.Portfolio/refs/heads/main/profile.png" 
+                                    src="https://raw.githubusercontent.com/pkanotara/pravin.kanotara-portfolio/refs/heads/main/profile.png" 
                                     alt="Profile"
                                     className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-500"
                                 />
