@@ -80,7 +80,7 @@ const Contact: React.FC = () => {
                         <Phone className="w-4 h-4" />
                     </div>
                     <h3 className="text-gray-400 text-[10px] font-mono mb-1 uppercase tracking-widest">Call Me</h3>
-                    <p className="text-base font-medium">+91 98765 43210</p>
+                    <p className="text-base font-medium">+91 63519 27357</p>
                     <div className="absolute top-4 right-4 opacity-0 group-hover:opacity-100 -translate-x-2 group-hover:translate-x-0 transition-all duration-300">
                         <ArrowRight className="w-4 h-4 text-green-500" />
                     </div>
