@@ -64,7 +64,7 @@ const Contact: React.FC = () => {
                         <Mail className="w-4 h-4" />
                     </div>
                     <h3 className="text-gray-400 text-[10px] font-mono mb-1 uppercase tracking-widest">Email Me</h3>
-                    <p className="text-base font-medium truncate">pravinkanotara@gmail.com</p>
+                    <p className="text-base font-medium truncate">prvnkanotara@gmail.com</p>
                     <div className="absolute top-4 right-4 opacity-0 group-hover:opacity-100 -translate-x-2 group-hover:translate-x-0 transition-all duration-300">
                         <ArrowRight className="w-4 h-4 text-accent" />
                     </div>
