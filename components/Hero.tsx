@@ -125,7 +125,7 @@ const Hero: React.FC = () => {
                 <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
             </a>
             <a 
-                href="https://drive.google.com/file/d/1Wb_s_vArgDiTKbI8OesubTNLpymD9Khz/view?usp=sharing"
+                href="https://drive.google.com/file/d/1VorERPzktwmSESNP81ZVjGC8lzSUeD6O/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-8 py-4 bg-white/50 dark:bg-white/5 backdrop-blur-md border border-gray-200 dark:border-white/10 text-gray-900 dark:text-white rounded-full font-medium transition-all hover:bg-white/80 dark:hover:bg-white/10 flex items-center gap-2"
